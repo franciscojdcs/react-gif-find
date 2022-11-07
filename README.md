@@ -16,3 +16,9 @@ Repositorio de aplicacion react para busqueda de gifs, las caractericas principa
 ```txt
     Api de https://giphy.com/
 ```
+
+
+- URL de muestra:
+```txt
+    https://franciscojdcs.github.io/react-gif-find/
+```
