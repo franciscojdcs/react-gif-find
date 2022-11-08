@@ -18,6 +18,7 @@ Repositorio de aplicacion react para busqueda de gifs, las caractericas principa
 ```
 
 
-- URL de muestra:
-    https://franciscojdcs.github.io/react-gif-find/
+## URL de muestra:
+- https://franciscojdcs.github.io/react-gif-find/
+- https://fj-gifs-find.netlify.app/
 
