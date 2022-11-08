@@ -19,6 +19,5 @@ Repositorio de aplicacion react para busqueda de gifs, las caractericas principa
 
 
 - URL de muestra:
-```txt
     https://franciscojdcs.github.io/react-gif-find/
-```
+
